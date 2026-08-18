@@ -2,6 +2,9 @@
 
 A solution to the [Cookie Consent](https://roadmap.sh/projects/cookie-consent) challenge on [roadmap.sh](https://roadmap.sh).
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-blue?style=for-the-badge&logo=vercel)](https://naprikot.github.io/cookie-consent) 
+
+
 ## The Challenge
 
 Create a simple cookie consent popup using HTML, CSS, and JavaScript that appears when a user visits the page. The user must be able to accept or decline the consent, which dismisses the banner. 
